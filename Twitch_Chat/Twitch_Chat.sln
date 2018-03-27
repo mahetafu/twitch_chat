@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitch_Chat", "Twitch_Chat\Twitch_Chat.csproj", "{B1720A5F-81A5-4C7A-A092-D7B43354CABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1720A5F-81A5-4C7A-A092-D7B43354CABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1720A5F-81A5-4C7A-A092-D7B43354CABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1720A5F-81A5-4C7A-A092-D7B43354CABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1720A5F-81A5-4C7A-A092-D7B43354CABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
